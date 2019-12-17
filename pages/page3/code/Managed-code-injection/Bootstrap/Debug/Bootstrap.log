@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/12/17 8:17:01。
+     1>项目“C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Bootstrap.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D INJECTLIBRARY_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt DllMain.cpp
+         DllMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Debug\Bootstrap.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Debug\Bootstrap.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Debug\Bootstrap.lib" /MACHINE:X86 /DLL Debug\DllMain.obj
+         Bootstrap.vcxproj -> C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Debug\Bootstrap.dll
+     1>已完成生成项目“C:\Users\22073\Desktop\work\Managed-code-injection-master\Bootstrap\Bootstrap.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.40
