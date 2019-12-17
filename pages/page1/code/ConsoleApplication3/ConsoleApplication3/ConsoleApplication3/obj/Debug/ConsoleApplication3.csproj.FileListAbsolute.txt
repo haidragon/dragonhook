@@ -1,0 +1,10 @@
+C:\Users\haidragon\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\haidragon\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\haidragon\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\haidragon\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\haidragon\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\22073\Desktop\work\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\22073\Desktop\work\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\22073\Desktop\work\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\22073\Desktop\work\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\22073\Desktop\work\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
